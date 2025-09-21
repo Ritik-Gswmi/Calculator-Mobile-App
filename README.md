@@ -27,7 +27,7 @@
 
 - The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
  
-   [Calculator-Mobile-App](https://snack.expo.dev/@ritik599/calculator_mobile-app?platform=ios)
+   [Calculator-Mobile-App](https://snack.expo.dev/@ritik599/calculator-mobile-app?platform=ios)
 
 
 **[Screenshot]**
