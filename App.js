@@ -17,6 +17,8 @@ const Calculator = () => {
       setInput((prev) => prev.slice(0, -1));
     } else if (value === "=") {
       try {
+        const factorial = (n) => (n <= 1 ? 1 : n * factorial(n - 1));
+
         let expression = input
           .replace(/×/g, "*")
           .replace(/÷/g, "/")
@@ -36,9 +38,7 @@ const Calculator = () => {
           .replace(/fact\(/g, "factorial(")
           .replace(/EXP/g, "Math.exp");
 
-        const factorial = (n) => (n <= 1 ? 1 : n * factorial(n - 1));
-
-        const evalResult = eval(expression);
+        const evalResult = Function("factorial", `return (${expression})`)(factorial);
         setResult(evalResult.toString());
       } catch (error) {
         setResult("Error");
@@ -64,7 +64,9 @@ const Calculator = () => {
         }
       }
     } else if (value === "Ans") {
-      setInput((prev) => prev + result);
+      if (result) {
+        setInput((prev) => prev + `(${result})`);
+      }
     } else if (value === "Shift") {
       setIsShift((prev) => !prev);
     } else {
