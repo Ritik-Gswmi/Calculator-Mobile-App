@@ -23,12 +23,6 @@
    npx expo start
    ```
 
- ## *Demo of the App* 
-
-- The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
- 
-   [Calculator-Mobile-App](https://snack.expo.dev/@ritik599/calculator-mobile-app-01?platform=ios)
-
 
 **[Screenshot]**
 
