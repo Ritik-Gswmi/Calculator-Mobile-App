@@ -30,3 +30,16 @@
    <img src="assets/Calculator 123-section.png" width="300" height="500">
    <img src="assets/Calculator fx-section.png" width="300" height="500">
  </p>
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork and submit PRs.
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
