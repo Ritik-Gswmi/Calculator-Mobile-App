@@ -28,6 +28,8 @@
 
  <p align="center">
    <img src="assets/Calculator 123-section.png" width="300" height="500">
+ </p>
+ <p align="center">
    <img src="assets/Calculator fx-section.png" width="300" height="500">
  </p>
 
