@@ -1,47 +1,101 @@
-# *Calulator-Mobile-App 🖩*
+# 🖩 Calculator Mobile App
 
-```  This Calculator-Mobile-App was created Using Expo and React-Native ```
+[![React Native](https://img.shields.io/badge/React%20Native-0.72+-blue.svg)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-~49.0.0-black.svg)](https://expo.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## *Requirememts* 
-- You need to have Node.js and Expo installed on your pc in order to create application project
-- Copy the repo into the newly created folderName
-- Install Andriod Studio to emulate andriod environment 
-- Install XCode to emulate IOS environment
+A powerful, user-friendly calculator app built with React Native and Expo. Perform basic and advanced mathematical calculations with ease on your mobile device.
 
+## ✨ Features
 
-## *Get started*
+- **Basic Operations**: Addition, subtraction, multiplication, division
+- **Advanced Functions**: Trigonometric functions (sin, cos, tan), logarithms, exponentials
+- **Scientific Calculator**: Support for complex expressions, parentheses, and more
+- **Mode Switching**: Degree/Radian modes, Shift functions for inverse operations
+- **Responsive Design**: Optimized for both iOS and Android devices
+- **Real-time Preview**: See calculation results as you type
+- **Intuitive UI**: Clean, modern interface with smooth animations
 
-1. Install dependencies
+## 🛠️ Technologies Used
 
+- **React Native** - Cross-platform mobile development
+- **Expo** - Development platform for React Native
+- **JavaScript** - Programming language
+
+## 📋 Requirements
+
+- Node.js (v16 or higher)
+- Expo CLI
+- Android Studio (for Android emulation)
+- Xcode (for iOS emulation, macOS only)
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/calculator-mobile-app.git
+   cd calculator-mobile-app
+   ```
+
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. **Start the development server**
    ```bash
    npx expo start
    ```
 
+4. **Run on device/emulator**
+   - For Android: Press `a` in the terminal or use Expo Go app
+   - For iOS: Press `i` in the terminal (macOS only) or use Expo Go app
 
-**[Screenshot]**
+## 📱 Usage
 
- <p align="center">
-   <img src="assets/Calculator 123-section.png" width="300" height="500">
- </p>
- <p align="center">
-   <img src="assets/Calculator fx-section.png" width="300" height="500">
- </p>
+- **Basic Calculations**: Tap numbers and operators to build expressions
+- **Advanced Functions**: Switch to Fx mode for scientific functions
+- **Mode Toggle**: Use Rad/Deg buttons to switch between degree and radian modes
+- **Shift Functions**: Press Shift to access inverse trigonometric functions
+- **Clear**: Use AC to clear all, ⌫ to delete last character
+- **Equals**: Press = to calculate the result
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+## 📸 Screenshots
 
----
+<div align="center">
+  <img src="assets/Screenshot 1.jpg" width="300" alt="Calculator App Screenshot 1">
+  <img src="assets/Screenshot 2.jpg" width="300" alt="Calculator App Screenshot 2">
+</div>
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork and submit PRs.
+
+We welcome contributions! Here's how you can help:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Built with ❤️ using React Native and Expo
+- Icons and assets from Expo
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+<div align="center">
+  <p>Made with 💙 by the open source community</p>
+  <p>
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#contributing">Contributing</a>
+  </p>
+</div>
