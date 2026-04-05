@@ -62,10 +62,12 @@ A powerful, user-friendly calculator app built with React Native and Expo. Perfo
 
 ## 📸 Screenshots
 
-<div align="center">
+<p align="center">
   <img src="assets/Screenshot 1.jpg" width="300" alt="Calculator App Screenshot 1">
+</p>
+<p align="center">
   <img src="assets/Screenshot 2.jpg" width="300" alt="Calculator App Screenshot 2">
-</div>
+</p>
 
 ## 🤝 Contributing
 
