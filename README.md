@@ -3,14 +3,16 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.72+-blue.svg)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-~49.0.0-black.svg)](https://expo.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub stars](https://img.shields.io/github/stars/Ritik-Gswmi/Calculator-Mobile-App)
+![GitHub forks](https://img.shields.io/github/forks/Ritik-Gswmi/Calculator-Mobile-App)
 
 A powerful, user-friendly calculator app built with React Native and Expo. Perform basic and advanced mathematical calculations with ease on your mobile device.
 
 ## 📲 Download Android APK
 
-You can install the Android version of the app:
+Install the latest Android version of the app:
 
-[Download APK](https://github.com/Ritik-Gswmi/Calculator-Mobile-App/releases/tag/v1.0)
+[Download APK](https://github.com/Ritik-Gswmi/Calculator-Mobile-App/releases)
 
 ## ✨ Features
 
@@ -39,8 +41,8 @@ You can install the Android version of the app:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/calculator-mobile-app.git
-   cd calculator-mobile-app
+   git clone https://github.com/Ritik-Gswmi/Calculator-Mobile-App.git
+   cd Calculator-Mobile-App
    ```
 
 2. **Install dependencies**
