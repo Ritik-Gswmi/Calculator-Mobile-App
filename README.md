@@ -6,6 +6,12 @@
 
 A powerful, user-friendly calculator app built with React Native and Expo. Perform basic and advanced mathematical calculations with ease on your mobile device.
 
+## 📲 Download Android APK
+
+You can install the Android version of the app:
+
+[Download APK](https://github.com/Ritik-Gswmi/Calculator-Mobile-App/releases/tag/v1.0)
+
 ## ✨ Features
 
 - **Basic Operations**: Addition, subtraction, multiplication, division
